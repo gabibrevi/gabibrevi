@@ -31,6 +31,13 @@ Here are some projects I’ve been working on as part of my journey back into de
 - Description: Modern web application built using Next.js 14.2.7, featuring the latest advancements in web development such as the App Router and Server Actions. This project is designed to deliver a seamless, high-performance user experience with a strong focus on scalability and maintainability. The app is fully type-safe with TypeScript, styled using Tailwind CSS for a responsive, modern design, and uses Prisma for efficient database management. Zustand is used for lightweight and efficient state management, and Zod ensures robust schema validation, enhancing data integrity.
 - Repo: https://github.com/gabibrevi/food-orders-tracker-app
 
+2. Drink Recipe Finder 
+- Description: Drink Recipe Finder is a React-based web application that allows users to explore and discover a wide variety of drink recipes. With an intuitive and responsive user interface, users can easily search for drinks, save their favorites, and manage their own personalized recipe collection. This application is designed with modern web technologies to ensure a seamless, efficient, and interactive user experience.
+- Repo: https://github.com/gabibrevi/drinks-recipes
+
+3. Cryptocurrency Comparison Tool
+   - Description: Cryptocurrency Comparison Tool is a tool for real-time cryptocurrency comparison, developed using React and Vite for fast and efficient performance. It integrates with the CryptoCompare API to provide up-to-the-minute data on various cryptocurrencies, helping users make informed decisions based on live market insights.
+   - Repo: https://github.com/gabibrevi/cryptos-quote-dev
 
 ## 🌱 Currently Learning
 - Redux: Exploring redux as a state management.
