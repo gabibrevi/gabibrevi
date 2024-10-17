@@ -28,13 +28,13 @@ Previous Experience:
 Here are some projects I’ve been working on as part of my journey back into development:
 
 1. Food Order Tracker
-Description: Modern web application built using Next.js 14.2.7, featuring the latest advancements in web development such as the App Router and Server Actions. This project is designed to deliver a seamless, high-performance user experience with a strong focus on scalability and maintainability. The app is fully type-safe with TypeScript, styled using Tailwind CSS for a responsive, modern design, and uses Prisma for efficient database management. Zustand is used for lightweight and efficient state management, and Zod ensures robust schema validation, enhancing data integrity.
-Repo: https://github.com/gabibrevi/food-orders-tracker-app
+- Description: Modern web application built using Next.js 14.2.7, featuring the latest advancements in web development such as the App Router and Server Actions. This project is designed to deliver a seamless, high-performance user experience with a strong focus on scalability and maintainability. The app is fully type-safe with TypeScript, styled using Tailwind CSS for a responsive, modern design, and uses Prisma for efficient database management. Zustand is used for lightweight and efficient state management, and Zod ensures robust schema validation, enhancing data integrity.
+- Repo: https://github.com/gabibrevi/food-orders-tracker-app
 
 
 ## 🌱 Currently Learning
-Redux: Exploring redux as a state management.
-GraphQL: Building APIs with more flexibility and efficiency compared to traditional REST.
+- Redux: Exploring redux as a state management.
+- GraphQL: Building APIs with more flexibility and efficiency compared to traditional REST.
 
 ## 📫 Get in Touch
 LinkedIn: https://www.linkedin.com/in/gabibrevi/
